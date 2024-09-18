@@ -1,5 +1,3 @@
-# Complete Marketing Analysis Project - 56 Steps to Actionable Insights
-
 ## Overview
 
 This project offers a comprehensive walkthrough of the entire data exploration and multivariate analysis process. The focus is on applying these techniques to Marketing data, leveraging Machine Learning as a tool for deeper multivariate insights. Additionally, the project covers hypothesis formulation, testing, and interpretation, guiding you through each step to reach actionable conclusions.
