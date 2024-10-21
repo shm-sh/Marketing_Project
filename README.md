@@ -1,12 +1,6 @@
 ## Overview
 
-This project offers a comprehensive walkthrough of the entire data exploration and multivariate analysis process. The focus is on applying these techniques to Marketing data, leveraging Machine Learning as a tool for deeper multivariate insights. Additionally, the project covers hypothesis formulation, testing, and interpretation, guiding you through each step to reach actionable conclusions.
-
-### Key Highlights:
-- **56 Steps**: Each step is meticulously designed to ensure you cover everything from basic data cleaning to advanced analysis and insight extraction.
-- **Multivariate Analysis**: Dive deep into complex data relationships with the help of Machine Learning.
-- **Hypothesis Testing**: Learn to create, test, and interpret hypotheses to make data-driven decisions.
-- **Real-World Marketing Data**: Work with data relevant to marketing strategies and campaigns, making the insights directly applicable.
+This project offers a comprehensive walkthrough of the entire data exploration and multivariate analysis process. The focus is on applying these techniques to Marketing data.
 
 ## Features
 
@@ -14,9 +8,6 @@ This project offers a comprehensive walkthrough of the entire data exploration a
 2. **Exploratory Data Analysis (EDA)**: Detailed univariate, bivariate, and multivariate analysis.
 3. **Feature Engineering**: Creation of new variables that reveal hidden insights.
 4. **Outlier Detection & Treatment**: Identifying and handling outliers to ensure robust analysis.
-5. **Machine Learning for Multivariate Analysis**: Using Random Forest to understand feature importance and relationships.
-6. **Hypothesis Testing**: Application of Shapiro-Wilk, Mann-Whitney, and other tests to derive meaningful conclusions.
-7. **Actionable Insights**: Converting complex analysis into business strategies.
 
 ## Technologies Used
 
